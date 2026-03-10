@@ -1,6 +1,6 @@
 # Daena: The Autonomous AI Employee 🤖✨
 
-**Live Demo (Web3 Security Module):** [https://mas-ai-official.github.io/hackathon_demo_consensus/]((https://mas-ai-official.github.io/hackathon_demo/))
+**Live Demo (Web3 Security Module):** [https://mas-ai-official.github.io/hackathon_demo_consensus/](https://mas-ai-official.github.io/hackathon_demo/)
 
 **Demo Video:** [https://youtu.be/omzfIib2gkg](https://youtu.be/omzfIib2gkg)
 
